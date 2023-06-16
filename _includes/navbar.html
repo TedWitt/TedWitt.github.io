@@ -1,0 +1,11 @@
+<div>
+{% for item in site.navigation_links %}
+  <a class="nav-menu-item{% if page.url == item.url %} active{% endif %}" href="{{ item.url }}">{{ item.title }}</a>
+{% endfor %}
+{% assign categories_sorted = site.categories | sort %}
+  {% for category in categories_sorted %}
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+      <a class="category-head"><i class="fa fa-tags fa-fw" aria-hidden="true"></i>&nbsp;{{ category_name }}</a>
+  {% endfor %}
+
+</div>
