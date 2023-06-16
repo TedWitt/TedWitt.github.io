@@ -1,19 +1,67 @@
 ---
 layout: post
-title: Article Priority 2
-categories: [Technology]
+title: 15 Tips Writers Can Use to Improve Dialog
+tags: [Writing, Books, Scripts]
 priority: 2
-author: Jeff Witt
+author: Ted Witt
 featured-image: 
-  path: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimprimis.hillsdale.edu%2Fwp-content%2Fuploads%2F1974%2F02%2FStack-of-Old-Newspapers.jpg&f=1&nofb=1&ipt=ca0d9786e63f70d482c378382dc08e047b69768e1a7d58338a83aa0bd00b1eaa&ipo=images
+  path: https://photos.app.goo.gl/7wF6QUGqmoP2qfPx9
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor aliquam nulla facilisi cras fermentum. Commodo elit at imperdiet dui accumsan sit. Vitae tempus quam pellentesque nec nam aliquam sem et. Eget duis at tellus at urna condimentum mattis pellentesque. Ullamcorper sit amet risus nullam eget felis eget nunc lobortis. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus. Gravida in fermentum et sollicitudin ac orci. Scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus. Pharetra et ultrices neque ornare aenean euismod. Ac tortor vitae purus faucibus ornare suspendisse. Viverra maecenas accumsan lacus vel facilisis volutpat est velit. Pharetra diam sit amet nisl suscipit adipiscing bibendum.
+You talk, so you think you can easily make your characters talk. Wrong.
 
-Diam sit amet nisl suscipit adipiscing. Quam elementum pulvinar etiam non quam lacus suspendisse faucibus. Nulla pellentesque dignissim enim sit amet. Tempus egestas sed sed risus pretium quam vulputate. Lectus magna fringilla urna porttitor. Pulvinar mattis nunc sed blandit libero volutpat. Mattis pellentesque id nibh tortor. At tempor commodo ullamcorper a lacus vestibulum sed arcu. Imperdiet massa tincidunt nunc pulvinar sapien et ligula. Enim blandit volutpat maecenas volutpat blandit aliquam etiam erat velit. Augue interdum velit euismod in pellentesque massa placerat duis. Faucibus in ornare quam viverra. Non quam lacus suspendisse faucibus interdum posuere lorem ipsum dolor. Eleifend mi in nulla posuere sollicitudin.
+Dialogue is hard work,  integral to story architecture. You don’t have two brains or two sets of life experience, let alone the psychosis necessary to be inside the heads of ten people critical to your story.
 
-Nam aliquam sem et tortor consequat id. Erat nam at lectus urna duis convallis convallis. Id neque aliquam vestibulum morbi blandit. Amet dictum sit amet justo donec enim diam vulputate ut. Arcu ac tortor dignissim convallis aenean et tortor. Curabitur gravida arcu ac tortor dignissim. Lobortis elementum nibh tellus molestie nunc non blandit massa. Ultrices in iaculis nunc sed augue. Sem nulla pharetra diam sit amet nisl suscipit adipiscing bibendum. Quis imperdiet massa tincidunt nunc pulvinar sapien. Fermentum leo vel orci porta non pulvinar neque laoreet. Mi sit amet mauris commodo. Ullamcorper eget nulla facilisi etiam. Sed tempus urna et pharetra pharetra massa massa ultricies mi. Gravida arcu ac tortor dignissim convallis aenean et tortor at.
+It’s time to move away from the keyboard and get outside, so you can study people as part stenographer, part psychologist, and part sociologist.
 
-Vestibulum lorem sed risus ultricies. Faucibus interdum posuere lorem ipsum. Feugiat in fermentum posuere urna. Nisl suscipit adipiscing bibendum est ultricies integer quis. Purus gravida quis blandit turpis cursus in hac. At consectetur lorem donec massa sapien. Elit scelerisque mauris pellentesque pulvinar pellentesque. In nisl nisi scelerisque eu ultrices vitae. Hac habitasse platea dictumst quisque sagittis purus sit amet. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt. Amet risus nullam eget felis eget nunc lobortis mattis aliquam. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget.
+To help you succeed, pay heed to these fifteen tactics that will help you master clot in getting imagined conversation into print.
 
-Pellentesque habitant morbi tristique senectus et. Posuere morbi leo urna molestie at elementum eu facilisis. Nisi quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Et sollicitudin ac orci phasellus egestas tellus. Commodo quis imperdiet massa tincidunt nunc pulvinar sapien et. Curabitur vitae nunc sed velit dignissim sodales ut eu. Faucibus et molestie ac feugiat sed lectus. Sed nisi lacus sed viverra tellus in hac habitasse. Urna nec tincidunt praesent semper feugiat. Interdum velit laoreet id donec ultrices tincidunt arcu non sodales. Vivamus at augue eget arcu dictum varius duis. Dictum non consectetur a erat nam. Mi ipsum faucibus vitae aliquet. Diam sollicitudin tempor id eu nisl nunc mi ipsum. Metus dictum at tempor commodo ullamcorper a. Et egestas quis ipsum suspendisse. Egestas quis ipsum suspendisse ultrices gravida. Sed felis eget velit aliquet. Tincidunt id aliquet risus feugiat in ante.
+1/. Dialogue is diverse. Only one character in your book can possess your personal voice; the rest of your characters must impersonate other voices. Don’t write how you talk and place your words in every character’s mouth. You must become someone else. Study the words of strangers.
+
+2/. Dialogue is meant to be spoken. When creating your stories, don’t write your dialogue. Speak it out loud, and then record the words you have created. When finishing your book, always read the dialogue aloud during the editing process. Fix it, so it becomes Talking English. Oral English and Written English are two different languages.
+
+3/. Dialogue evolves out of personality. If you have not fully defined your character, you can’t possibly be creating appropriate dialogue. You are mostly likely writing your own thoughts, not your character’s. Dialogue defines your character.
+
+4/. Dialogue builds tension. Ask yourself, “What is at risk?” Mere chit-chat bores readers. They want suspense and entertainment. The motivation of characters should be the genesis of their conversations. If there is no tension under development, your reader leaves the book on the nightstand and never returns.
+
+5/. Dialogue doesn’t dump information for information’s sake. Narrative and description do that. Please, no so-what conversations as in, “That building is big,” said John. Dialogue is more subtle. It reveals mood, offers glimpses, and drops clues.
+
+6/. Dialogue should not be journalistic. Newspaper-style comments are a common ailment among reporters turned writers. A reporter’s dialogue is characterized by quotations of factual reinforcement or proof of a point already expressed. It does little to expose personality.
+
+7/. Dialogue should be heavily scattered throughout memoirs. Otherwise, you are likely to present a myopic view of life through your own eyes. Help us see other people’s perspective of your life by remembering dialogue within the scenes of your story. In these cases, dialogue must be honest, not filtered or paraphrased by your bias.
+
+8/. Dialogue must pass the relevancy test. Use a conversation when the story calls for a character to reveal something about their personal development, needs, desires, or relationships. Re-read all your dialogue to see if it can pass this test. Conversations must move the reader forward, not bog them down.
+
+9/.  Dialogue follows a pattern within story architecture, whereby narrative introduces facts, leading to scenes. Scenes play out through characters, who act, and whose words create an emotional bond (good or bad) with readers. Scenes incorporate subtext and advance a plot. As such, dialogue is a tool and has its place. Metaphorically speaking, don’t use dialogue as a hammer, when a paint brush is required.
+
+10/. Dialogue in print is imperfect because it represents actual oral speech. That means your story’s conversations will often record clipped thoughts, staccato bursts, pauses, incomplete sentences, repetition, and even poor grammar.
+
+11/. Dialogue sits next to identifiers that should be varied and comfortable. Identifiers are the words that reveal which person is speaking and how. The word said is your best friend in dialogue. That said (no pun intended), the four chief writing sins with regard to identifiers are 1) to use synonyms for said too often, 2) to use flowery adverbs, 3) to avoid using identifiers altogether so that the reader gets lost, and 4) to rely to the word said so much that the word becomes irritating.
+
+12/. Dialogue lives alongside body language. If you cannot imagine a person using body language with your dialogue, throw the line out. It is probably just information. When people are passionate about their conversation, their hands, face, body and legs move. Watch for it. Passion equals movement.
+13/. Dialogue requires study. Next time you are at a restaurant with friends study their speech. Then mimic their speech patterns. It is impossible to write without true-life experience. Get in the world. Teen-age fan fiction is full of one-sided dialogue from kids who have spent too much time in the basement – alone.
+
+14/. Dialogue has dual purposes. When you are hiding a clue in dialogue, the conversation has to have meaning in the present moment while simultaneously offering a hint of the future. The foreshadowing cannot stick out. You can witness shoddy execution of this principle in many popular TV crime show dramas. Dialogue will be so unrelated to the current scene that you know it is a clue toward a later resolution.
+15/.Dialogue is better in the context of a plan. If you are writing without a proper on-paper outline, your dialogue will suffer because you have not thought through all the intricacies of theme, plot points, and relevant scenes. Your dialogue cannot connect to whole unless you know where you are going.
+
+ROMEO:
+Lady, by yonder blessed moon I swear
+That tips with silver all these fruit-tree tops—
+
+JULIET:
+O, swear not by the moon, the inconstant moon,
+That monthly changes in her circled orb,
+Lest that thy love prove likewise variable.
+
+ROMEO:
+What shall I swear by?
+
+JULIET:
+Do not swear at all;
+Or, if thou wilt, swear by thy gracious self,
+Which is the god of my idolatry,
+And I'll believe thee.
+
+
+
+
