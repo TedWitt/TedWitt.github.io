@@ -1,7 +1,7 @@
 ---
 layout: post
 title: subfeatured 2.1
-categories: [Technology]
+categories: [Technology, Education]
 subfeatured: 2
 author: Jeff Witt
 featured-image: 
