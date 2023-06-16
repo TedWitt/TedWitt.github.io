@@ -1,6 +1,6 @@
 <div>
 {% for item in site.navigation_links %}
-  <a class="nav-menu-item{% if page.url == item.url %} active{% endif %}" href="{{ item.url }}">{{ item.title }}</a>
+  <a class="nav-menu-item{% if page.url == item.url %} active{% endif %}" href="{{ item.url | relative_url}}">{{ item.title }}</a>
 {% endfor %}
 {% assign categories_sorted = site.categories | sort %}
   {% for category in categories_sorted %}
