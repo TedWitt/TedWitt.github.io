@@ -93,11 +93,13 @@ figcaption{
 }
 .subfeatured{
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   padding: 0 20px 20px 20px;
 }
 
-.subfeatured div{
-  width: 100%;
+
+.subfeatured:has(:last-child:nth-child(2)) .post{
+  width: 45%;
   margin: auto;
+  
 }
