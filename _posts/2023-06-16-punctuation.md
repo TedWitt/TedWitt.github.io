@@ -11,6 +11,8 @@ featured-image:
 
 You’ll make your editor happy if you pay attention to several small details in your writing that often have to be corrected in the publishing process. These are subtle niceties that, if standardized, make your book stand out as an exemplary publication in contrast to competing self-published books that neglect the pointillistic aspects of our craft.
 
+<!--more-->
+
 **1\. Put your punctuation marks** in the same font–italic, roman, bold–as the surrounding or connected text. The exception is when using italics for book titles and when using italics to denote a word being used as a word. Here are two examples to make it plain. The first example follows the rule. The second example shows the exception. 
 
 {:.example}
