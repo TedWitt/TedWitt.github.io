@@ -1,6 +1,6 @@
 ---
 layout: post
-title: subfeatured 2
+title: subfeatured 2.1
 categories: [Technology]
 subfeatured: 2
 author: Jeff Witt
