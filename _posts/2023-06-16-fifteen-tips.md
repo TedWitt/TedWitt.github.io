@@ -3,7 +3,6 @@ layout: post
 title: 15 Tips Writers Can Use to Improve Dialog
 tags: [Writing, Books, Scripts]
 priority: 2
-author: Ted Witt
 featured-image: 
   path: https://lh3.googleusercontent.com/pw/AJFCJaWv7zltTVF7TGSMrvS2UnBCXEoHt8Z6Ef2hxaibBWBnvsIsTXsOwhQQ6ARUcvMly_HRckXgDH883tcKA5HemD8uhzUVopRVelMnFIj9dcgg5O0B8oJPV82H2P65kRSoJkEUqEEIyNmjYMs7K19lor0C7Q=w980-h626-s-no?authuser=0
 ---

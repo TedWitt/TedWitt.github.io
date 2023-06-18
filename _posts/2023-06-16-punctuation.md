@@ -3,13 +3,12 @@ layout: post
 title: Punctuation
 tags: [Writing, Punctuation]
 priority: 1
-author: Ted Witt
 excerpt_separator: <!--more-->
 featured-image: 
   path: /assets/images/typewriter.png
 ---
 
-You'll TEST make your editor happy if you pay attention to several small details in your writing that often have to be corrected in the publishing process. These are subtle niceties that, if standardized, make your book stand out as an exemplary publication in contrast to competing self-published books that neglect the pointillistic aspects of our craft.
+You'll make your editor happy if you pay attention to several small details in your writing that often have to be corrected in the publishing process. These are subtle niceties that, if standardized, make your book stand out as an exemplary publication in contrast to competing self-published books that neglect the pointillistic aspects of our craft.
 
 <!--more-->
 
