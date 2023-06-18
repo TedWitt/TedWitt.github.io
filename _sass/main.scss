@@ -114,3 +114,25 @@ figcaption{
   margin: auto;
 
 }
+
+.tips{
+  color: green;
+  margin: 0 50px;
+  text-align: justify;
+}
+
+.red_centered{
+  color: red;
+  text-align: center;
+  margin: 0 50px;
+  text-align: justify;
+}
+
+a{
+ text-decoration: none;
+ color: blue; 
+}
+
+a:hover{
+  text-decoration: underline;
+}

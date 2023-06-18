@@ -2,5 +2,15 @@
 layout: default
 ---
 <div class="content-post">
+    <h1>{{post.title}}</h1>
+    <p>
+        {%- if post.author -%}
+        <span>{{post.author}}</span>
+        {%- if post.attribution -%}
+        <span>, {{post.attribution}}</span>
+        {%- endif -%} 
+        {%- endif -%}
+
+    </p>
 {{ content }}
 </div>
